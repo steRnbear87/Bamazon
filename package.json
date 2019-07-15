@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Ebay-like store",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bernard_Dzekashu",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "mysql": "^2.17.1",
+    "mysql2": "^1.6.5"
+  }
+}
